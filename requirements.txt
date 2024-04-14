@@ -1,0 +1,9 @@
+remotezip
+tqdm
+opencv-python
+einops
+matplotlib
+numpy
+seaborn
+scikit-learn
+pydot
